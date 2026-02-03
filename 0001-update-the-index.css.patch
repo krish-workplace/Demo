@@ -1,0 +1,24 @@
+From c4e29f376cabedb6b75eacdc21e1be869281663b Mon Sep 17 00:00:00 2001
+From: krish-workplace <workplace.krish@gmail.com>
+Date: Tue, 3 Feb 2026 22:40:33 +0530
+Subject: [PATCH] update the index.css
+
+---
+ index.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.css b/index.css
+index 03c7ece..e7f504c 100644
+--- a/index.css
++++ b/index.css
+@@ -4,5 +4,5 @@
+ }
+ p{
+     position: absolute;
+-    display: grid;
++    justify-content: center;
+ }
+\ No newline at end of file
+-- 
+2.45.1.windows.1
+
