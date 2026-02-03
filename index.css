@@ -1,0 +1,8 @@
+*{
+    color: red;
+    position: relative;
+}
+p{
+    position: absolute;
+    display: grid;
+}
